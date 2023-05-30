@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SwirX
 - 👀 I’m interested in game dev. and web dev.
-- 🌱 I’m currently learning javascript.
-- im familiar with html, css, python, batch, luau and a lil of js.
+- 🌱 I’m currently learning c++.
+- im familiar with html, css, javascript, php, python, batch, ps1, lua/luau some sh.
 - 📫 How to reach me :
 --my email swirxytb@gmail.com
 --my ig www.instagram.com/swirxyt
