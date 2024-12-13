@@ -1,13 +1,4 @@
-[![BentoHub grid image]()](https://bentohub.netlify.app/)
-
-- 👋 Hi, I’m @SwirX
-- 👀 I’m interested in game dev. and web dev.
-- 🌱 I’m currently learning c++.
-- im familiar with dart, html, css, javascript, php, python, batch, ps1, lua/luau some sh.
-- 📫 How to reach me :
---my email swirxytb@gmail.com
---my ig www.instagram.com/swirxyt
-
+[![BentoHub grid image](https://cloud.appwrite.io/v1/storage/buckets/667d390e003b1971a8be/files/675c52c1001483e0c7a5/preview?project=667d35ca0017fb21fc6c)](https://bentohub.netlify.app/)
 <!---
 SwirX/SwirX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
