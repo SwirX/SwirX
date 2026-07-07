@@ -46,10 +46,10 @@ Building useful apps, clean APIs, and polished visuals.
     <img src="https://ali.bouyakhsass.com/api/gh-repo?username=SwirX&repo=SXUI&theme=dark" width="260" />
   </a>
   <a href="https://github.com/SwirX/aniwatch">
-    <img src="https://ali.bouyakhsass.com/api/gh-repo?username=SwirX&repo=aniwatch&theme=dark" width="260" />
+    <img src="https://ali.bouyakhsass.com/api/gh-repo?username=SwirX&repo=xbox-supervisor&theme=dark" width="260" />
   </a>
   <a href="https://github.com/SwirX/authy">
-    <img src="https://ali.bouyakhsass.com/api/gh-repo?username=SwirX&repo=authy&theme=dark" width="260" />
+    <img src="https://ali.bouyakhsass.com/api/gh-repo?username=SwirX&repo=catpile&theme=dark" width="260" />
   </a>
 </p>
 
